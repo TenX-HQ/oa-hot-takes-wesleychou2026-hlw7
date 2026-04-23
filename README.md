@@ -93,3 +93,5 @@ This problem is structured progressively — running `pytest --collect-only` and
 `backend/app/` holds `main.py`, `config.py`, `database.py`, `schemas.py`, `ranking.py`, and `routers/`. `frontend/src/` holds `App.jsx`, `api.js`, and `views/`. `tests/` is at the repo root.
 
 Think carefully about what happens at the boundaries — these decisions are yours to make.
+
+<!-- Test change -->
