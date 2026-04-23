@@ -1,0 +1,17 @@
+local-sandbox.sh
+.local/
+seed/embeddings.npy
+seed/.seeded
+.tenx/assessment_session_id
+.tenx/assessment_timer_start
+.tenx/assessment_turns.jsonl
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+*.egg-info/
+node_modules/
+frontend/dist/
+app.db
+*.db
